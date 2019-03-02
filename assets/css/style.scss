@@ -4,10 +4,16 @@
 @import "{{ site.theme }}";
 
 #clock {
+  float: center;
   text-align: center;
-  color:#222;
-  font-weight:700
-  font-size: 16px;
+  line-height: 2;
+  color:#fff;
+  font-weight:700;
+  font-size: 18px;
+  background-color: #267CB9;
+  border-radius: 5px;
+  margin: auto 50px;
+}
 }
 
 #drone {
