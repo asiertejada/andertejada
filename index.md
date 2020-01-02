@@ -2,7 +2,7 @@
 
 Se me esperaba para el 5 de julio de 2019 y a las 20:10 de dicho día he llegado a este mundo.
 
-![Ander recién nacido](/andertejada/assets/img/newborn.jpg "Ander recién nacido")
+<img id="newborn" src="/andertejada/assets/img/newborn.jpg" alt="Ander newborn" />
 
 ## Estoy de camino
 
